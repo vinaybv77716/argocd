@@ -18,4 +18,4 @@ spec:
         - name: app1
           image: nginx:latest
           ports:
-            - containerPort: 80re
+            - containerPort: 80
