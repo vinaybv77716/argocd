@@ -14,7 +14,7 @@ spec:
   sources:
     - repoURL: https://github.com/<git-username>/<git-repo>.git
       targetRevision: HEAD
-      ref: <customizable reference>
+      ref: main
     - repoURL: https://prometheus-community.github.io/helm-charts/
       chart: prometheus
       targetRevision: 19.7.2
